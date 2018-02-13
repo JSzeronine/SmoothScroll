@@ -1,0 +1,29 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, input { border:0; font-family:inherit; font-size:100%; font-style:inherit; font-weight:inherit; margin:0; outline:0; padding:0; vertical-align:baseline; }
+:focus { outline:0 }
+body { line-height:1 }
+ol, ul { list-style:none }
+table { border-collapse:separate; border-spacing:0 }
+caption, th, td { font-weight:normal; text-align:left }
+blockquote:before, blockquote:after, q:before, q:after { content:"" }
+blockquote, q { quotes:"" "" }
+a img { border:0 }
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section { display:block }
+button { margin:0; padding:0; border:0; background-color:transparent; cursor:pointer; }
+img { vertical-align:initial; }
+a { text-decoration:none; color:#666; }
+
+.wrap{ width: 100%; }
+.s0{ width: 100%; height: 1000px; background-color: blue; }
+.s1{ width: 100%; height: 1000px; background-color: black; }
+.s2{ width: 100%; height: 1000px; background-color: yellow; }
+.s3{ width: 100%; height: 1000px; background-color: red; }
+.s4{ width: 100%; height: 1000px; background-color: green; }
+.s5{ width: 100%; height: 1000px; background-color: #ff00ff; }
